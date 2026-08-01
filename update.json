@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.1",
-  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.1/Agoda-Checkin-Hom-Nay-1.4.1.exe",
-  "sha256": "abfc5fd93dd42e06ac0cba46f0c077446a67cfdaaa6baab075cac1b256caeec7",
-  "size": 23351747,
-  "notes": "Tự cập nhật qua GitHub, giờ yên lặng 00:00–08:00 và ẩn xuống khay hệ thống."
+  "version": "1.4.2",
+  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.2/Agoda-Checkin-Hom-Nay-1.4.2.exe",
+  "sha256": "3f451d0ab58d9d0064afde732315348e82aba56b0d8b9b805a88fa0405849595",
+  "size": 23353997,
+  "notes": "Chỉ cho phép mở một bản ứng dụng; lần mở thứ hai sẽ hiện thông báo."
 }
