@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.3",
-  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.3/Agoda-Checkin-Hom-Nay-1.4.3.exe",
-  "sha256": "1c8ad99e39a575649aa9496c2f41ad7f42917a86e042ca71f8d113776bf0d4bb",
-  "size": 23363360,
-  "notes": "Popup có nút Tắt chuông không đóng thông báo và Chép thông tin 9 cột khi chọn cả hàng; STT để trống."
+  "version": "1.4.4",
+  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.4/Agoda-Checkin-Hom-Nay-1.4.4.exe",
+  "sha256": "1ae04fe19c352410969e2d8f59d5f0214e6eadc707dc643086bd3dd893f32794",
+  "size": 23362266,
+  "notes": "Sửa Tổng thu VND bị nhân 100 lần do đuôi .00; Ghi chú tự động thêm Agoda trước hạng phòng."
 }
