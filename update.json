@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.4",
-  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.4/Agoda-Checkin-Hom-Nay-1.4.4.exe",
-  "sha256": "1ae04fe19c352410969e2d8f59d5f0214e6eadc707dc643086bd3dd893f32794",
-  "size": 23362266,
-  "notes": "Sửa Tổng thu VND bị nhân 100 lần do đuôi .00; Ghi chú tự động thêm Agoda trước hạng phòng."
+  "version": "1.4.5",
+  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.5/Agoda-Checkin-Hom-Nay-1.4.5.exe",
+  "sha256": "a94082a34d85326ec2ce797d67439eecd2901288e58ea4efec23c7fb48f5488a",
+  "size": 23364948,
+  "notes": "Bổ sung đúng số lượng và tất cả hạng phòng cho booking Agoda đặt nhiều phòng; tăng độ tương thích OTA."
 }
