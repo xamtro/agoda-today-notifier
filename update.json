@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.5",
-  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.5/Agoda-Checkin-Hom-Nay-1.4.5.exe",
-  "sha256": "a94082a34d85326ec2ce797d67439eecd2901288e58ea4efec23c7fb48f5488a",
-  "size": 23364948,
-  "notes": "Bổ sung đúng số lượng và tất cả hạng phòng cho booking Agoda đặt nhiều phòng; tăng độ tương thích OTA."
+  "version": "1.4.6",
+  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.6/Agoda-Checkin-Hom-Nay-1.4.6.exe",
+  "sha256": "ad239a23ee33a32d99efad629d672014876de0619f3211a3fad5bbb67caec09c",
+  "size": 23369806,
+  "notes": "Màn hình chờ F92 có đồng hồ HH:mm, lịch tháng và tự cập nhật theo từng phút."
 }
