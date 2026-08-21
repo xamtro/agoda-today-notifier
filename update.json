@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.6",
-  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.6/Agoda-Checkin-Hom-Nay-1.4.6.exe",
-  "sha256": "ad239a23ee33a32d99efad629d672014876de0619f3211a3fad5bbb67caec09c",
-  "size": 23369806,
-  "notes": "Màn hình chờ F92 có đồng hồ HH:mm, lịch tháng và tự cập nhật theo từng phút."
+  "version": "1.4.7",
+  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.7/Agoda-Checkin-Hom-Nay-1.4.7.exe",
+  "sha256": "bfe255d7ec4e82264241c7121324893dab10ecc0132a80d46792b632fab95a5f",
+  "size": 23370198,
+  "notes": "Sửa mẫu email Agoda song ngữ: đọc đủ tên khách, hạng phòng, số lượng phòng và chép Excel đầy đủ."
 }
