@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "version": "1.4.7",
-  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.4.7/Agoda-Checkin-Hom-Nay-1.4.7.exe",
-  "sha256": "bfe255d7ec4e82264241c7121324893dab10ecc0132a80d46792b632fab95a5f",
-  "size": 23370198,
-  "notes": "Sửa mẫu email Agoda song ngữ: đọc đủ tên khách, hạng phòng, số lượng phòng và chép Excel đầy đủ."
+  "version": "1.5.1",
+  "url": "https://github.com/xamtro/agoda-today-notifier/releases/download/v1.5.1/Agoda-Checkin-Hom-Nay-1.5.1.exe",
+  "sha256": "cdd9b2a4cb7dbe5eff2a5ada3ccc8e886f8300818980fd1549385f2da0fa69d7",
+  "size": 23377104,
+  "notes": "Ho tro mau email Expedia thuc te: du ten khach, hang phong, ngay o, tong thu va chep Excel an toan."
 }
